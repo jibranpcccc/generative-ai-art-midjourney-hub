@@ -1,17 +1,17 @@
 [
   {
-    "id": "generative-ai-art-midjourney-hub-reddit-20260915-1",
-    "title": "r/webdev Builders Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,200,000+ members",
-    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "id": "generative-ai-art-midjourney-hub-discord-20260915-1",
+    "title": "Midjourney Official Creators Discord",
+    "platform": "Discord",
+    "category": "Generative AI Art",
+    "memberCount": "1,980,000+ members",
+    "description": "The official Midjourney community, prompt generation channels, style weighting parameters, photorealism tricks, and artistic showcases.",
+    "joinUrl": "https://discord.gg/midjourney",
     "tags": [
-      "webdev",
-      "fullstack",
-      "frontend",
-      "reddit"
+      "midjourney",
+      "ai-art",
+      "prompt-craft",
+      "discord"
     ],
     "verified": true,
     "featured": true,
@@ -141,24 +141,6 @@
       "openai",
       "chatgpt",
       "api",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "generative-ai-art-midjourney-hub-discord-5",
-    "title": "Midjourney Official Discord",
-    "platform": "Discord",
-    "category": "Creative AI & Art",
-    "memberCount": "16,000,000+ members",
-    "description": "The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.",
-    "joinUrl": "https://discord.gg/midjourney",
-    "tags": [
-      "midjourney",
-      "ai-art",
-      "prompts",
       "discord"
     ],
     "verified": true,
