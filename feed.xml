@@ -4,10 +4,17 @@
     <title>Generative AI Art &amp; Midjourney Hub</title>
     <link>https://generative-ai-art-midjourney-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:04:43 GMT</lastBuildDate>
     <atom:link href="https://generative-ai-art-midjourney-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/generative-ai-art-midjourney-hub/#generative-ai-art-midjourney-hub-reddit-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:04:43 GMT</pubDate>
+      <description>Newly verified community added to Generative AI Art &amp; Midjourney Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
       <link>https://www.reddit.com/r/science/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/generative-ai-art-midjourney-hub/#generative-ai-art-midjourney-hub-reddit-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/generative-ai-art-midjourney-hub/#generative-ai-art-midjourney-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:04:52 GMT</pubDate>
       <description>Newly verified community added to Generative AI Art &amp; Midjourney Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>Generative AI Art &amp; Midjourney Hub Initial Release</title>
-      <link>https://generative-ai-art-midjourney-hub.vercel.app/</link>
-      <pubDate>Sat, 12 Sep 2026 10:30:02 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
