@@ -4,10 +4,17 @@
     <title>Generative AI Art &amp; Midjourney Hub</title>
     <link>https://generative-ai-art-midjourney-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:04:40 GMT</lastBuildDate>
     <atom:link href="https://generative-ai-art-midjourney-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/generative-ai-art-midjourney-hub/#generative-ai-art-midjourney-hub-forum-20261016-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:04:40 GMT</pubDate>
+      <description>Newly verified community added to Generative AI Art &amp; Midjourney Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/generative-ai-art-midjourney-hub/#generative-ai-art-midjourney-hub-forum-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/generative-ai-art-midjourney-hub/#generative-ai-art-midjourney-hub-discord-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:18:33 GMT</pubDate>
       <description>Newly verified community added to Generative Ai Art Midjourney Hub: The official Midjourney community, prompt generation channels, style weighting parameters, photorealism tricks, and artistic showcases.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/webdev/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/generative-ai-art-midjourney-hub/#generative-ai-art-midjourney-hub-reddit-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:04:16 GMT</pubDate>
-      <description>Newly verified community added to Generative AI Art &amp; Midjourney Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
     </item>
   </channel>
 </rss>
